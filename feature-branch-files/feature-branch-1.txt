@@ -1,6 +1,5 @@
 a
 few
-different
 lines
 of
 text
